@@ -1,0 +1,14 @@
+*.pyc
+.DS_Store
+.git
+*.aux
+*.log
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+Dropbox
+*.pdf
+*.swp
+*.swo
+*.so
